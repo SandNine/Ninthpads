@@ -4,7 +4,7 @@ Your Ultimate Notepad Experience!
 Ninthpads is a sleek, powerful, and feature-packed notepad application designed to make your note-taking smoother and more efficient. Whether you're jotting down quick thoughts or organizing detailed notes, Ninthpads has everything you need.
 
 # ✨ Features
-📝 Rich Text Formatting – Bold, italic, underline, and more to style your notes just the way you like.
+📝 Rich Text Formatting – Bold, italic, underline, and more to style your notes just the way you like.\n
 🔍 Smart Search System – Find anything instantly with the powerful search bar.
 🆔 Unique Note IDs – Keep track of your notes effortlessly with IDs. Foucusing on only what matters in the moment!
 📂 Multiple Tabs – Work on several notes at once without missing a beat.
