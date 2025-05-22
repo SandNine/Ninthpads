@@ -17,9 +17,9 @@ Ninthpads is a sleek, powerful, and feature-packed notepad application designed 
 
 
 # 🚀 Why Ninthpads?
-✔ Lightweight & Fast – No bloat, just pure productivity. 
-✔ User-Friendly – Clean interface with intuitive controls.  
-✔ Customizable – Tailor your notepad to fit your workflow. 
+> ✔ Lightweight & Fast – No bloat, just pure productivity.
+> ✔ User-Friendly – Clean interface with intuitive controls.  
+> ✔ Customizable – Tailor your notepad to fit your workflow. 
 
 
 Perfect for students, developers, writers, and anyone who loves taking notes in style!
