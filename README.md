@@ -1,6 +1,6 @@
 # Ninthpads ✨
 
-[English](README.md) \|\ [Português (Brasil)](README.pt-br.md)
+[English](README.md)  \|\ [Português (Brasil)](README.pt-br.md)
 
 Ninthpads is a sleek, powerful, and feature-rich notepad application designed to enhance your note-taking experience. Whether you're jotting down quick thoughts or organizing detailed notes, Ninthpads has everything you need.
 
